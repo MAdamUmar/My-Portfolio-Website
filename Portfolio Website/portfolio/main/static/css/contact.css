@@ -1,0 +1,7 @@
+h7, h8, h9, h11 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px; /* Adjust the size as needed */
+    display: block;
+    margin-bottom: 12px;
+}
